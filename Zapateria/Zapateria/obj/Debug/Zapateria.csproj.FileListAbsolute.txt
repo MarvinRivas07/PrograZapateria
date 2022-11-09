@@ -1,0 +1,45 @@
+C:\Users\UNAB\source\repos\Zapateria\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\UNAB\source\repos\Zapateria\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\UNAB\source\repos\Zapateria\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\UNAB\source\repos\Zapateria\Zapateria\obj\Debug\Zapateria.csproj.AssemblyReference.cache
+C:\Users\UNAB\source\repos\Zapateria\Zapateria\obj\Debug\Zapateria.frmPrincipal.resources
+C:\Users\UNAB\source\repos\Zapateria\Zapateria\obj\Debug\Zapateria.Properties.Resources.resources
+C:\Users\UNAB\source\repos\Zapateria\Zapateria\obj\Debug\Zapateria.csproj.GenerateResource.cache
+C:\Users\UNAB\source\repos\Zapateria\Zapateria\obj\Debug\Zapateria.csproj.CoreCompileInputs.cache
+C:\Users\UNAB\source\repos\Zapateria\Zapateria\obj\Debug\Zapateria.exe
+C:\Users\UNAB\source\repos\Zapateria\Zapateria\obj\Debug\Zapateria.pdb
+C:\Users\UNAB\source\repos\Zapateria\Zapateria\obj\Debug\Zapateria.Presentación.frmlogin.resources
+C:\Users\UNAB\source\repos\Zapateria\Zapateria\bin\Debug\MaterialSkin.dll
+C:\Users\UNAB\source\repos\Zapateria\Zapateria\obj\Debug\Zapateria.csproj.CopyComplete
+C:\Users\Marvi\Desktop\Zapateria\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\Marvi\Desktop\Zapateria\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Marvi\Desktop\Zapateria\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Marvi\Desktop\Zapateria\Zapateria\bin\Debug\MaterialSkin.dll
+C:\Users\Marvi\Desktop\Zapateria\Zapateria\obj\Debug\Zapateria.csproj.AssemblyReference.cache
+C:\Users\Marvi\Desktop\Zapateria\Zapateria\obj\Debug\Zapateria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marvi\Desktop\Zapateria\Zapateria\obj\Debug\Zapateria.frmPrincipal.resources
+C:\Users\Marvi\Desktop\Zapateria\Zapateria\obj\Debug\Zapateria.Presentación.frmlogin.resources
+C:\Users\Marvi\Desktop\Zapateria\Zapateria\obj\Debug\Zapateria.Properties.Resources.resources
+C:\Users\Marvi\Desktop\Zapateria\Zapateria\obj\Debug\Zapateria.csproj.GenerateResource.cache
+C:\Users\Marvi\Desktop\Zapateria\Zapateria\obj\Debug\Zapateria.csproj.CoreCompileInputs.cache
+C:\Users\Marvi\Desktop\Zapateria\Zapateria\obj\Debug\Zapateria.csproj.CopyComplete
+C:\Users\Marvi\Desktop\Zapateria\Zapateria\obj\Debug\Zapateria.exe
+C:\Users\Marvi\Desktop\Zapateria\Zapateria\obj\Debug\Zapateria.pdb
+C:\Users\Marvi\Desktop\Zapateria\Zapateria\obj\Debug\Zapateria.Presentación.frmVerUsuarios.resources
+C:\Users\Marvi\Desktop\Zapateria\Zapateria\obj\Debug\Zapateria.Presentación.RegistrarUsuario.resources
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\bin\Debug\MaterialSkin.dll
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\obj\Debug\Zapateria.csproj.AssemblyReference.cache
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\obj\Debug\Zapateria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\obj\Debug\Zapateria.frmPrincipal.resources
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\obj\Debug\Zapateria.Presentación.frmlogin.resources
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\obj\Debug\Zapateria.Presentación.frmVerUsuarios.resources
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\obj\Debug\Zapateria.Presentación.RegistrarUsuario.resources
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\obj\Debug\Zapateria.Properties.Resources.resources
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\obj\Debug\Zapateria.csproj.GenerateResource.cache
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\obj\Debug\Zapateria.csproj.CoreCompileInputs.cache
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\obj\Debug\Zapateria.csproj.CopyComplete
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\obj\Debug\Zapateria.exe
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\obj\Debug\Zapateria.pdb
